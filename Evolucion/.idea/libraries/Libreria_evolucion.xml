@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Libreria_evolucion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Libreria_evolucion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

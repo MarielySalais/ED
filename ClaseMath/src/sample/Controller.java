@@ -72,6 +72,7 @@ public class Controller {
 
 
 
+
     }//Proceso2
     public void imprimirArreglo(double[]arr){
         for (int x=0;x<arr.length;x++){
