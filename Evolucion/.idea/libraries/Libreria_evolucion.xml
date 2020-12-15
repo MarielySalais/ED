@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Libreria_evolucion">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../Libreria_evolucion.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Libreria_evolucion" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Libreria_evolucion/src" />
+    </SOURCES>
   </library>
 </component>
